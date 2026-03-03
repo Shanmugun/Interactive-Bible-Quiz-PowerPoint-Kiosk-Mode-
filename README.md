@@ -2,6 +2,13 @@
 
 An interactive **Bible Quiz PowerPoint presentation** designed for youth meetings, church gatherings, and fellowship events. This presentation runs fully in **Kiosk Mode**, allowing users to navigate using clickable buttons and interactive elements.
 
+## 🖼 Preview
+
+![Quiz Preview](./assets/Preview.png)
+
+📥 [Download PPT](./assets/InteractiveBibleQuiz.pptx)    
+👀 [View Online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/Shanmugun/Interactive-Bible-Quiz-PowerPoint-Kiosk-Mode-/raw/main/assets/InteractiveBibleQuiz.pptx)
+
 📅 **Event:** YAF - March 1st, 2026  
 📽️ Run in: **Slide Show → Set Up Slide Show → Browsed at a kiosk (Full Screen)**
 
